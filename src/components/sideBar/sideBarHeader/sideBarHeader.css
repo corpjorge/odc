@@ -1,0 +1,12 @@
+.sidebar-heading{
+  
+    padding-top: 2rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    padding-bottom: 0.875rem;
+    background-color: #000;
+    font-size: large;
+    color: #fff;
+    text-align: center;
+    
+  }

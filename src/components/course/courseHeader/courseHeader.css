@@ -1,0 +1,13 @@
+.card-header-title{
+    border-style: none; width: 100%;
+}
+.boton-small{
+	font-size: small;
+}
+.chips-row{
+    display:flex;
+}
+
+.oculto{
+    display: none;
+}

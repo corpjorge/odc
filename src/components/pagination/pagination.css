@@ -1,0 +1,11 @@
+
+.activenav button
+{
+	background-color: #000;
+	color: #fff !important;
+}
+
+.pagination button{
+	text-decoration: none !important;
+	color: #000;
+}

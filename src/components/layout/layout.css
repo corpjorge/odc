@@ -1,0 +1,15 @@
+.page-content-wrapper {
+    min-width: 100vw;
+}
+h1
+{
+  text-align: center;
+  margin-top: 24px;
+  margin-bottom: 8px;
+}
+@media (min-width: 768px) {
+    .page-content-wrapper {
+      min-width: 0;
+      width: 100%;
+    }
+}
